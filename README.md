@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/banner-1.jpg" width="100%" />
+<img src="assets/banner.jpg" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Egor</h1>
